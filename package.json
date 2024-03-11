@@ -1,6 +1,6 @@
 {
   "name": "ttk_game",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -18,6 +18,10 @@
   },
   "homepage": "https://github.com/mrmepoo/ttk_game#readme",
   "dependencies": {
-    "ttk_library": "^1.1.1"
+    "ttk_library": "^1.2.1",
+    "chalk": "^5.3.0",
+    "lodash": "^4.17.21",
+    "moment": "^2.30.1",
+    "validator": "^13.11.0"
   }
 }
